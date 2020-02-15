@@ -22,3 +22,9 @@ elsif integer > 30
 else
   puts "integerはどの条件にも当てはまらなかったよ"
 end
+
+
+
+# Rubyは純粋なオブジェクト指向の言語らしい
+# あとインタプリタ言語らしい
+# PythonとRubyってどっちのが遅いんだろうね
